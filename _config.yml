@@ -10,12 +10,12 @@ meta_author: LastName FirstName
 # Google webmaster tools
 google_verify:
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# Bing webmaster tools
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
+# - static: pass through formspree.io to validate email sending
+# - disqus: replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
 
@@ -61,10 +61,10 @@ credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a
 markdown: kramdown
 permalink: pretty
 
-#for posts
+# For pages
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: "pages"
     values:
-      permalink: ""
+      permalink: /:title/
