@@ -67,4 +67,4 @@ defaults:
       path: ""
       type: "pages"
     values:
-      permalink: /:title/
+      permalink:
