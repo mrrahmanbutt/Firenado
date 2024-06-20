@@ -34,8 +34,7 @@ color:
 footer:
   location: Location
   social: Around the Web
-  credits: Credits
-
+  
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
@@ -54,8 +53,7 @@ address:
   - line: House no. 25, Sohail Block
   - line: Jamil Park,Multan Rd, Lahore
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
 
 # Build settings
 markdown: kramdown
