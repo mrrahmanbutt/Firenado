@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2024-06-15
 img: cabin.png
 alt: image-alt
-project-date: April 2014
+project-date: June 2024
 category: Mobile Game
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Join the adventure in Arcane Monster Hunt, where you become the fearless hero in a world overrun by terrifying creatures! Equipped with an array of powerful weapons such as the Gatling rifle, trusty pistol, and more, you'll embark on an epic quest to rid the realm of these monstrous threats.
 ---
