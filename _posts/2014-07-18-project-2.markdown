@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 2
+date: 2024-08-23
+img: new Icon.jpg
+alt: image-alt
+project-date: August 2024
+category: Mobile Game
+description: In this addictive idle merge game, you’ll combine identical cakes to unlock new and exciting flavors. From the simple beginnings of a vanilla cake, progress to intricate designs and rich flavors that will make your mouth water. Whether it’s a classic chocolate cake or a whimsical rainbow cake, there’s always something new to discover.
+---
